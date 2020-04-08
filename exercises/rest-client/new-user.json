@@ -1,0 +1,15 @@
+HTTP/2 201 
+date: Tue, 15 Oct 2019 16:29:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 76
+set-cookie: __cfduid=d93d539224464a20b0faf826f9c4a63ed1571156991; expires=Wed, 14-Oct-20 16:29:51 GMT; path=/; domain=.reqres.in; HttpOnly; Secure
+x-powered-by: Express
+access-control-allow-origin: *
+etag: W/"4c-w9WSZSZH69UQYH6DxHPq8gXM5CI"
+via: 1.1 vegur
+cf-cache-status: DYNAMIC
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 52632c9a987d93ca-SJC
+
+{"name":"JJ","job":"stuf","id":"814","createdAt":"2019-10-15T16:29:51.395Z"}

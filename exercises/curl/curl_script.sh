@@ -1,0 +1,1 @@
+curl $VALUE | grep mailto
